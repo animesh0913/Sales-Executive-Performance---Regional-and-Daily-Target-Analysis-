@@ -1,4 +1,4 @@
-                                             "Sales Executive Performance Analysis – Regional & Daily Targets"
+            "Sales Executive Performance Analysis – Regional & Daily Targets"
 **Overview **
 This project focuses on visualizing the performance of sales executives across
 different regions in India. The dashboard provides real-time insights into total sales,
